@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gaurav 
 
-🚀 **Computer Science Engineer | Data Science Enthusiast | LangChain Builder**  
+ **Computer Science Engineer | Data Science Enthusiast | LangChain Builder**  
 
 I love building intelligent systems that combine **LLMs, smart automation, and data-driven decision-making**.  
 Recently, I’ve been working on **smart reply generation systems** powered by **LangChain + Firebase + Pinecone + OpenAI**, with custom **React frontends** and **FastAPI backends**.  
