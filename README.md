@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Gaurav]  
+# 👋 Hey, I'm Gaurav 
 
 🚀 **Computer Science Engineer | Data Science Enthusiast | LangChain Builder**  
 
@@ -36,13 +36,27 @@ Recently, I’ve been working on **smart reply generation systems** powered by *
 ## 🚀 Projects  
 
 ### 🧠 Smart Reply Generator  
-LLM-powered system with **brand detection, sentiment analysis, and structured replies**.  
-**Tech:** LangChain · Firebase · Pinecone · FastAPI · React  
-  
+Built a **client-assist system** that suggests appropriate replies for customer messages based on **brand, product, and intent**.  
+- Detects brand & product mentioned in customer queries  
+- Classifies the customer’s intent (complaint, appreciation, query, etc.)  
+- Fetches brand-specific reply guidelines (opening, assurance, action, closing) from **Firebase and Pinecone**  
+- Suggests structured replies to the client team, ensuring responses stay consistent with brand voice and tone  
 
-### 🎧 Audio Analysis Pipeline  
-Colab-based pipeline for **diarization, translation & call analysis** using **Sarvam API + Azure Data Lake + GPT**.  
+**Tech:** LangChain · LangGraph · Firebase · Pinecone · FastAPI · React  
 
+### 💬 Customer Chatbot  
+Developed an **AI-powered chatbot** designed for direct customer interaction with intelligent handling of queries.  
+- Performs **intent detection** to understand whether a customer is asking a question, raising a complaint, or giving feedback  
+- Maintains **context across multiple messages** for smoother conversations  
+- Provides **personalized responses** instead of generic replies  
+- Can be adapted to different domains by plugging in brand or product-specific knowledge  
+- Helps businesses **reduce response time** and improve customer satisfaction  
+
+### ⚡ EV Companies Social Media Analysis  
+Conducted **data analysis and sentiment study** on social media content related to EV companies, generating insights through an analysis report.  
+
+### 🎧 Audio Analysis System  
+Designed a system for **diarization, translation & call analysis** using **Sarvam API + Azure Data Lake + GPT**.  
 ---
 
 ## 🌐 Connect With Me  
