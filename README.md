@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]  
+# 👋 Hey, I'm [Gaurav]  
 
 🚀 **Computer Science Engineer | Data Science Enthusiast | LangChain Builder**  
 
@@ -11,7 +11,7 @@ Recently, I’ve been working on **smart reply generation systems** powered by *
 - 🎓 Computer Science Engineer specializing in **Data Science**  
 - 📊 Skilled in **Machine Learning, Deep Learning, NLP, and Generative AI**  
 - 🤖 Built a **multi-agent LangChain app** with product metadata extraction, intent-interaction matching, and smart response generation  
-- 📈 Experience in **data analysis projects** (FIFA player clustering, loan approvals, sentiment + reply systems)  
+- 📈 Experience in **data analysis projects**  
 - 🌱 Currently exploring **LLM orchestration, vector databases, and AI-powered automation**  
 - 💼 Open to **internship and full-time opportunities** in AI/Data Science  
 
@@ -33,20 +33,15 @@ Recently, I’ve been working on **smart reply generation systems** powered by *
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects  
 
 ### 🧠 Smart Reply Generator  
 LLM-powered system with **brand detection, sentiment analysis, and structured replies**.  
 **Tech:** LangChain · Firebase · Pinecone · FastAPI · React  
-
-### 📊 FIFA 20 Player Clustering  
-Clustered players based on in-game stats for **insights & team building**.  
-
-### 💸 Loan Approval Prediction  
-Machine learning models for **predicting loan approvals** based on applicant profiles.  
+  
 
 ### 🎧 Audio Analysis Pipeline  
-Colab-based pipeline for **diarization, translation & call analysis** using **Sarvam API + Azure Data Lake + GPT-4o**.  
+Colab-based pipeline for **diarization, translation & call analysis** using **Sarvam API + Azure Data Lake + GPT**.  
 
 ---
 
@@ -55,8 +50,6 @@ Colab-based pipeline for **diarization, translation & call analysis** using **Sa
 <p align="center">
   <a href="https://www.linkedin.com/in/gauravmali75/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>  
 
 ---
 
