@@ -56,7 +56,8 @@ Developed an **AI-powered chatbot** designed for direct customer interaction wit
 Conducted **data analysis and sentiment study** on social media content related to EV companies, generating insights through an analysis report.  
 
 ### 🎧 Audio Analysis System  
-Designed a system for **diarization, translation & call analysis** using **Sarvam API + Azure Data Lake + GPT**.  
+Designed a system for **diarization, translation & call analysis** using **Sarvam API + Azure Data Lake + GPT**.     
+
 ---
 
 ## 🌐 Connect With Me  
